@@ -1,5 +1,5 @@
 <h1 align="center">salut 👋</h1>
-
+<h1 style="border: 2px solid Tomato;">Una m8nstar</h1>
 <p align="center">
 	<b>Discord : Luziyo#9888</b><br>
   <b> I'm 17 years old </b><br>
@@ -21,3 +21,4 @@
   <code><img height="50" src="https://blob.cede.ch/catalog/16994000/16994077_1_92.jpg"></code>&nbsp;
   <code><img height="50" src="https://pbs.twimg.com/media/FCEPEvhWYAMvNWg.jpg"></code>&nbsp; 
 </p>
+

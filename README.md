@@ -14,9 +14,9 @@ Learn Python, Java-Script html and css
 i would like to lear C# and C++
 ```
 #
-<h1 align="center">LANGUAGE</h1>
+<h1 align="center">Me</h1>
 
 <p align="center"> 
-  <code><img height="25" src="https://blob.cede.ch/catalog/16994000/16994077_1_92.jpg"></code>&nbsp; |
-  <code><img height="25" src="https://pbs.twimg.com/media/FCEPEvhWYAMvNWg.jpg"></code>&nbsp; |
+  <code><img height="50" src="https://blob.cede.ch/catalog/16994000/16994077_1_92.jpg"></code>&nbsp; |
+  <code><img height="50" src="https://pbs.twimg.com/media/FCEPEvhWYAMvNWg.jpg"></code>&nbsp; |
 </p>

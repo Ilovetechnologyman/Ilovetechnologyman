@@ -10,8 +10,8 @@
 
 #
 ```diff
-Learn Python, Java-Script html and css 
-i would like to lear C# and C++
+- French developper.
+- Learn Python, Java-Script
 ```
 #
 <h1 align="center">Me</h1>

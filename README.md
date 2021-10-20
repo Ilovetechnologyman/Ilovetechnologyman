@@ -11,7 +11,8 @@
 #
 ```diff
 - French developper.
-- Learn Python, Java-Script
+- Learn Python, Java-Script html and css 
+-I would like to learn c# and c++ :D
 ```
 #
 <h1 align="center">Me</h1>

@@ -1,6 +1,6 @@
 <p align="center">salut 👋
-  discord: Luziyo#9888
-
+  <b>discord: Luziyo#9888</b>
+  <img src="https://c.tenor.com/Tn2H7Xp7ipgAAAAC/tha-supreme.gif" />
 </p>
 17 years old 
 

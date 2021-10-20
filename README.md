@@ -1,4 +1,7 @@
-<title>salut 👋</title>
+<p align="center">salut 👋
+  discord: Luziyo#9888
+
+</p>
 17 years old 
 
 

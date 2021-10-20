@@ -1,5 +1,5 @@
 <h1 align="center">salut 👋</h1>
-<h3 style="color: #9966ff;">Una m8nstar</h3>
+<h1 style="background-color:Violet;">Una m8nstar</h1>
 <p align="center">
 	<b>Discord : Luziyo#9888</b><br>
   <b> I'm 17 years old </b><br>

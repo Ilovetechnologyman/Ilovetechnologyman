@@ -26,4 +26,16 @@
   <code><img height="50" src="https://pbs.twimg.com/media/FCEPEvhWYAMvNWg.jpg"></code>&nbsp; 
 </p>
 
+<h2 align="center">Config spec : </h2>
 
+<p align="center">
+Cpu : Intel I5 6400 (so old U_U)
+GPU : GTX 1050TI 
+ram : 16Gb DDR4
+stockage : 2to 
+Monitor #1 : 144hz acer
+monitor #2 : 75hz acer
+keyboard : the g-lab 
+mouse : razer deathader
+mousepad : razer goliatus
+</p> 

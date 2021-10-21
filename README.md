@@ -1,6 +1,6 @@
 <h1 align="center">salut 👋</h1>
 
-<h1 style="background-color:rgb(255, 99, 71);">Una m8nstar</h1>
+<h1 align="top-right">Sono <sub> Una m8nstar</sub> </h1>
 
 <p align="center">
 	<b>Discord : Luziyo#9888</b><br>
@@ -15,6 +15,7 @@
 - French developper.
 - Learn Python, Java-Script html and css 
 -I would like to learn c# and c++ :D
+-Feel free to send a message ^^
 ```
 #
 <h1 align="center">Me</h1>
@@ -24,3 +25,8 @@
   <code><img height="50" src="https://pbs.twimg.com/media/FCEPEvhWYAMvNWg.jpg"></code>&nbsp; 
 </p>
 
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Clique pour afficher l'heure !</button>
+
+<p id="demo"></p>

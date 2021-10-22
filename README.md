@@ -1,8 +1,8 @@
-<h1 align="center">salut 👋</h1>
+<h1 align="center">welcome !  👋</h1>
 
 <h1 align="top-right">Sono <sub> Una m8nstar</sub> </h1>
 
-<h2>learning more and more....</h2>
+
 <p align="center">
 	<b>Discord : Luziyo#9888</b><br>
   <b> I'm 17 years old </b><br>
@@ -39,3 +39,5 @@ keyboard : the g-lab
 mouse : razer deathader
 mousepad : razer goliatus
 </p> 
+
+<h2 align="center">learning more and more....</h2>

@@ -19,7 +19,8 @@
 -Feel free to send a message ^^
 ```
 <p align="right">
-<b>je parle francais (natif)</b><br>
+<font color="blue"></font>
+<font color="blue"></font><b>je</font> parle <font color="red">francais (natif)</b><br></font>
 <b>I speak english B2 </b><br>
 <b>hablo espanol B2 </b><br>
 <b>Parlo Italiano A2/B1</b><br>

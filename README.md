@@ -18,11 +18,14 @@
 -I would like to learn c# and c++ :D
 -Feel free to send a message ^^
 ```
-<p align="right">
-<font color="blue"></font><b>je</font> parle <font color="red">francais (natif)</b><br></font>
+<p align="left"><b>je parle francais (natif)</b><br>
+<p align="middle">
 <b>I speak english B2 </b><br>
+<p align="right">
 <b>hablo espanol B2 </b><br>
+<p align="left">
 <b>Parlo Italiano A2/B1</b><br>
+<p align="middle">
 <b>Я немного говорю по-русски A1</b><br>
 
 

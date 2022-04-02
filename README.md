@@ -20,8 +20,8 @@
 ```
 <p align="right">
 <b>je parle francais (natif)</b><br>
-<b>I speak english b2 </b><br>
-<b>hablo espanol b2 </b><br>
+<b>I speak english B2 </b><br>
+<b>hablo espanol B2 </b><br>
 <b>Parlo Italiano A2/B1</b><br>
 <b>Я немного говорю по-русски A1</b><br>
 

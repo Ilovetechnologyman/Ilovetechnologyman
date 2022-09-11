@@ -27,7 +27,7 @@
 <b>Parlo Italiano </b><br>
 <p align="middle">
 <b>Я немного говорю по-русски </b><br>
-<H1>BUT IM VERY BAD I CAN UNDERSTAND FEW WORDS LMFAOOO </H1>
+<H5>BUT IM VERY BAD I CAN UNDERSTAND FEW WORDS LMFAOOO </H5>
 
 #
 <h1 align="center">Tha supreme</h1>

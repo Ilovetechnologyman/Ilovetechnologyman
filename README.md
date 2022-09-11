@@ -20,21 +20,20 @@
 ```
 <p align="left"><b>je parle francais (natif)</b><br>
 <p align="middle">
-<b>I speak english B2 </b><br>
+<b>I speak english </b><br>
 <p align="right">
-<b>hablo espanol B2 </b><br>
+<b>hablo espanol </b><br>
 <p align="left">
-<b>Parlo Italiano A2/B1</b><br>
+<b>Parlo Italiano </b><br>
 <p align="middle">
-<b>Я немного говорю по-русски A1</b><br>
-
+<b>Я немного говорю по-русски </b><br>
+<H1>BUT IM VERY BAD I CAN UNDERSTAND FEW WORDS LMFAOOO </H1>
 
 #
 <h1 align="center">Tha supreme</h1>
 
 <p align="center"> 
   <code><img height="50" src="https://blob.cede.ch/catalog/16994000/16994077_1_92.jpg"></code>&nbsp;
-  <code><img height="50" src="https://pbs.twimg.com/media/FCEPEvhWYAMvNWg.jpg"></code>&nbsp; 
 </p>
 
 <h2 align="center">Config spec : </h2>

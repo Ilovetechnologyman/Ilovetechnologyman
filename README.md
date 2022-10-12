@@ -5,8 +5,7 @@
 
 <p align="center">
 	<b>Discord : Luziyo#9888</b><br>
-  <b> I'm 17 years old </b><br>
-	<a href="https://twitter.com/Luziyo1">Twitter</a> 
+  <b> I'm 18 years old </b><br>
 	<br><br>
 	<img src="https://c.tenor.com/Tn2H7Xp7ipgAAAAC/tha-supreme.gif" />
 </p>
@@ -27,7 +26,6 @@
 <b>Parlo Italiano </b><br>
 <p align="middle">
 <b>Я немного говорю по-русски </b><br>
-<H5>BUT IM VERY BAD I CAN UNDERSTAND FEW WORDS LMFAOOO </H5>
 
 #
 <h1 align="center">Tha supreme</h1>

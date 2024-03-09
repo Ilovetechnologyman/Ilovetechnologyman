@@ -5,27 +5,15 @@
 
 <p align="center">
 	<b>Discord : Luziyo#9888</b><br>
-  <b> I'm 18 years old </b><br>
+  <b> I'm 19years old </b><br>
 	<br><br>
 	<img src="https://c.tenor.com/Tn2H7Xp7ipgAAAAC/tha-supreme.gif" />
 </p>
 
 #
 ```diff
-- French developper.
-- Learn Python, Java-Script html and css 
--I would like to learn c# and c++ :D
--Feel free to send a message ^^
+-apagnan 
 ```
-<p align="left"><b>je parle francais (natif)</b><br>
-<p align="middle">
-<b>I speak english </b><br>
-<p align="right">
-<b>hablo espanol </b><br>
-<p align="left">
-<b>Parlo Italiano </b><br>
-<p align="middle">
-<b>Я немного говорю по-русски </b><br>
 
 #
 <h1 align="center">Tha supreme</h1>

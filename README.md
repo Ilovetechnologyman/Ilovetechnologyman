@@ -5,15 +5,12 @@
 
 <p align="center">
 	<b>Discord : Luziyo#9888</b><br>
-  <b> I'm 19years old </b><br>
+  <b> I'm 20years old </b><br>
 	<br><br>
 	<img src="https://c.tenor.com/Tn2H7Xp7ipgAAAAC/tha-supreme.gif" />
 </p>
 
-#
-```diff
--apagnan 
-```
+
 
 #
 <h1 align="center">Tha supreme</h1>
@@ -35,5 +32,12 @@ keyboard : the g-lab
 mouse : razer deathader
 mousepad : razer goliatus
 </p> 
+<p align="center">
+	LAPTOP = 
+Cpu : Intel Core i7-13620H
+GPU : GeForce RTX 4060
+ram : 16Gb DDR5
+stockage : 1to ssd
+Monitor #1 : 16" Full HD+ 165 Hz 
+</p> 
 
-<h2 align="center">learning more and more....</h2>

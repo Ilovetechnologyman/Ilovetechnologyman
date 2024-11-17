@@ -38,6 +38,6 @@ Cpu : Intel Core i7-13620H
 GPU : GeForce RTX 4060
 ram : 16Gb DDR5
 stockage : 1to ssd
-Monitor #1 : 16" Full HD+ 165 Hz 
+Monitor #1 : 16" 165 Hz 1ms
 </p> 
 

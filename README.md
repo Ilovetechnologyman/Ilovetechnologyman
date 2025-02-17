@@ -20,9 +20,8 @@
 </p>
 
 <h2 align="center">Config spec : </h2>
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Luziyo.png" alt="TryHackMe Badge">
-</p>
+<img src="https://tryhackme-badges.s3.amazonaws.com/luziyo.png" alt="aled" />
+
 
 
 <p align="center">

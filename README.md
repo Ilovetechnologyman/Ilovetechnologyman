@@ -20,6 +20,7 @@
 </p>
 
 <h2 align="center">Config spec : </h2>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2323667" style='border:none;'></iframe>
 
 <p align="center">
 Cpu : Intel I5 6400 (so old U_U)

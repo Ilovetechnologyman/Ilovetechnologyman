@@ -21,8 +21,9 @@
 
 <h2 align="center">Config spec : </h2>
 <p align="center">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/TON_USERNAME.png" alt="TryHackMe Badge">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Luziyo.png" alt="TryHackMe Badge">
 </p>
+
 
 <p align="center">
 Cpu : Intel I5 6400 (so old U_U)

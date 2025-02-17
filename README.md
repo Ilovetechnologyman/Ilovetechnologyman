@@ -19,10 +19,10 @@
   <code><img height="50" src="https://blob.cede.ch/catalog/16994000/16994077_1_92.jpg"></code>&nbsp;
 </p>
 
-<h2 align="center">Config spec : </h2>
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/luziyo.png" alt="aled" />
 
-
+<h2 align="center">Config spec : </h2>
 
 <p align="center">
 Cpu : Intel I5 6400 (so old U_U)

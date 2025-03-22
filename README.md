@@ -21,7 +21,7 @@
 
 
 <a href="https://tryhackme.com/p/luziyo" target="_blank">
-    <img src="[https://tryhackme-badges.s3.amazonaws.com/luziyo.png](https://s3-eu-west-1.amazonaws.com/tpd/logos/5f00b0f031ec4d0001f1344e/0x0.png)" alt="aled" />
+    <img src="(https://s3-eu-west-1.amazonaws.com/tpd/logos/5f00b0f031ec4d0001f1344e/0x0.png" alt="aled" />
 </a>
 
 <h2 align="center">Config spec : </h2>

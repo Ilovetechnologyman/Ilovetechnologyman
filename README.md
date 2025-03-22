@@ -16,7 +16,7 @@
 <h1 align="center">Tha supreme</h1>
 
 <p align="center"> 
-  <code><img height="50" src="https://blob.cede.ch/catalog/16994000/16994077_1_92.jpg"></code>&nbsp;
+  <code><img height="100" src="https://blob.cede.ch/catalog/16994000/16994077_1_92.jpg"></code>&nbsp;
 </p>
 
 

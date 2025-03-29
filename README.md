@@ -12,7 +12,11 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ilovetechnologyman)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<p>
+  <img align="left" 
+       src="https://github-readme-stats-nine-liard-19.vercel.app/api/top-langs?username=Ilovetechnologyman&count_private=true&show_icons=true&locale=en&layout=compact&theme=dracula" 
+       alt="nath4an-s" />
+</p>
 #
 <h1 align="center">Tha supreme</h1>
 

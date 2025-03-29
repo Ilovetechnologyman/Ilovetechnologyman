@@ -10,6 +10,7 @@
 	<img src="https://c.tenor.com/Tn2H7Xp7ipgAAAAC/tha-supreme.gif" />
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ilovetechnologyman)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #

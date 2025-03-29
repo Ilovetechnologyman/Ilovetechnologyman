@@ -36,7 +36,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex" width="40" height="40"/>
   </a>
   <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/SolidWorks_Logo.svg" alt="solidworks" width="40" height="40"/>
+    <img src="https://blog-assets.solidworks.com/uploads/sites/9/6a00d83451706569e2017d3ca87d4c970c.png" alt="solidworks" width="40" height="40"/>
   </a>
   <a href="https://tryhackme.com/" target="_blank" rel="noreferrer">
     <img src="https://assets.tryhackme.com/img/THMlogo.png" alt="tryhackme" width="40" height="40"/>

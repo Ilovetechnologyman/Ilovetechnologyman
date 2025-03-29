@@ -45,7 +45,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer">
-    <img src="[[[https://upload.wikimedia.org/wikipedia/commons/9/9b/Assembly_language_logo.svg](https://images.seeklogo.com/logo-png/44/2/netwide-assembler-nasm-logo-png_seeklogo-444841.png)](https://i.pinimg.com/736x/25/a8/5d/25a85d9e5057430d82273a3c75e73014.jpg)](https://i.pinimg.com/736x/25/a8/5d/25a85d9e5057430d82273a3c75e73014.jpg)" alt="assembleur" width="40" height="40"/>
+    <img src="https://i.pinimg.com/736x/25/a8/5d/25a85d9e5057430d82273a3c75e73014.jpg" alt="assembleur" width="40" height="40"/>
   </a>
 </p>
 

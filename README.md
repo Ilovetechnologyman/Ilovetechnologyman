@@ -67,7 +67,4 @@
 #
 
 
-<a href="https://tryhackme.com/p/luziyo" target="_blank">
-    <img src="(https://s3-eu-west-1.amazonaws.com/tpd/logos/5f00b0f031ec4d0001f1344e/0x0.png" alt="aled" />
-</a>
 

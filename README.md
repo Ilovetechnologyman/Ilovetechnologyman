@@ -15,34 +15,17 @@
 <p>
   <img align="left" 
        src="https://github-readme-stats-nine-liard-19.vercel.app/api/top-langs?username=Ilovetechnologyman&count_private=true&show_icons=true&locale=en&layout=compact&theme=dracula" 
-       alt="nath4an-s" />
+       alt="Luziyo" />
 </p>
 #
-<h1 align="center">Tha supreme</h1>
-
-<p align="center"> 
-  <code><img height="100" src="https://blob.cede.ch/catalog/16994000/16994077_1_92.jpg"></code>&nbsp;
-</p>
 
 
 <a href="https://tryhackme.com/p/luziyo" target="_blank">
     <img src="(https://s3-eu-west-1.amazonaws.com/tpd/logos/5f00b0f031ec4d0001f1344e/0x0.png" alt="aled" />
 </a>
 
-<h2 align="center">Config spec : </h2>
 
-<p align="center">
-Cpu : Intel I5 6400 (so old U_U)
-GPU : GTX 1050TI 
-ram : 16Gb DDR4
-stockage : 2to 
-Monitor #1 : 144hz acer
-monitor #2 : 75hz acer
-keyboard : the g-lab 
-mouse : razer deathader
-mousepad : razer goliatus
-</p> 
-<p align="center">
+
 	LAPTOP = 
 Cpu : Intel Core i7-13620H
 GPU : GeForce RTX 4060

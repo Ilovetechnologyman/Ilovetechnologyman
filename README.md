@@ -60,7 +60,7 @@
 
 <p>
   <img align="left" 
-       src="https://github-readme-stats-nine-liard-19.vercel.app/api/top-langs?username=Ilovetechnologyman&count_private=true&show_icons=true&locale=en&layout=compact&theme=dracula" 
+       src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ilovetechnologyman&show_icons=true&theme=transparent)" 
        alt="Luziyo" />
 </p>
 #

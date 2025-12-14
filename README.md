@@ -51,10 +51,3 @@
 
 
 
-
-<p align="center">
-	<br><br>
-	<img src="https://c.tenor.com/Tn2H7Xp7ipgAAAAC/tha-supreme.gif" />
-</p>
-
-

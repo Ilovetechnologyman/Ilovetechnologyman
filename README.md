@@ -21,7 +21,7 @@
 
 ## About me
 
-I enjoy working where **software, infrastructure and security** meet. My projects range from full-stack and backend applications to distributed systems and automated cloud deployments. I have also worked with MVC architectures, modern JavaScript and PHP frameworks, and SQL, NoSQL and big-data concepts. I care about understandable code, reproducible environments, useful tests and documentation that helps the next engineer move faster.
+I enjoy working where **software, infrastructure and security** meet. My projects range from full-stack and backend applications to distributed systems and automated cloud deployments. I have also worked with MVC architectures, modern JavaScript and PHP frameworks, SQL and NoSQL technologies including Neo4j, and big-data concepts. I care about understandable code, reproducible environments, useful tests and documentation that helps the next engineer move faster.
 
 - 🎓 Engineering degree in Computer Science & Cybersecurity — expected in 2027
 - 💼 Software Development Intern in 2026
@@ -93,6 +93,7 @@ Built a tutoring platform featuring authentication, real-time messaging and cale
 **Data**<br/>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/Databases-NoSQL-4DB33D?style=flat-square)
 ![Big Data](https://img.shields.io/badge/Data-Big_Data-F9A03C?style=flat-square)
 

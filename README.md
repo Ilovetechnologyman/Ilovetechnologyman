@@ -59,7 +59,7 @@ Built a tutoring platform featuring authentication, real-time messaging and cale
 
 ## Experience
 
-**Software Development Intern — Nidec Leroy-Somer** · Orléans, France · Apr–Aug 2026
+**Software Development Intern**· Apr–Aug 2026
 
 - Maintained and extended industrial calculation tools used in alternator engineering.
 - Analysed a legacy codebase and its data flows, then designed and tested new features.

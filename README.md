@@ -21,7 +21,7 @@
 
 ## About me
 
-I enjoy working where **software, infrastructure and security** meet. My projects range from full-stack and backend applications to distributed systems and automated cloud deployments. I care about understandable code, reproducible environments, useful tests and documentation that helps the next engineer move faster.
+I enjoy working where **software, infrastructure and security** meet. My projects range from full-stack and backend applications to distributed systems and automated cloud deployments. I have also worked with MVC architectures, modern JavaScript and PHP frameworks, and SQL, NoSQL and big-data concepts. I care about understandable code, reproducible environments, useful tests and documentation that helps the next engineer move faster.
 
 - 🎓 Engineering degree in Computer Science & Cybersecurity — expected in 2027
 - 💼 Software Development Intern in 2026
@@ -71,17 +71,30 @@ Built a tutoring platform featuring authentication, real-time messaging and cale
 **Languages**<br/>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Delphi / Lazarus](https://img.shields.io/badge/Delphi_%2F_Lazarus-E62431?style=flat-square&logo=delphi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-**Software & data**<br/>
+**Frameworks & architecture**<br/>
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MVC](https://img.shields.io/badge/Architecture-MVC-5C2D91?style=flat-square)
+![REST APIs](https://img.shields.io/badge/APIs-REST-009688?style=flat-square)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+
+**Data**<br/>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![NoSQL](https://img.shields.io/badge/Databases-NoSQL-4DB33D?style=flat-square)
+![Big Data](https://img.shields.io/badge/Data-Big_Data-F9A03C?style=flat-square)
 
 **Cloud, systems & delivery**<br/>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)

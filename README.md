@@ -1,8 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/85554656?v=4" width="112" alt="" />
-
-
 
 <h3>Software Engineering · Cloud & DevSecOps · Cybersecurity</h3>
 

@@ -49,13 +49,13 @@ Automated the provisioning of an Ubuntu VM, networking, security groups and a fl
 
 `Terraform` `Ansible` `K3s` `Helm` `OpenStack` `cloud-init` `PostgreSQL` `Bash`
 
-### AIge-of-EmpAIre — Distributed multi-agent system
+### [AIge-of-EmpAIre — Distributed multi-agent system](https://github.com/vstadle/AIge-of-EmpAIres)
 
 Co-designed AI agents in a six-developer team and evolved a distributed architecture across multiple Linux instances. Worked on inter-agent communication, network debugging and iterative behaviour evaluation.
 
 `Python` `C` `Linux` `Networking` `Distributed Systems` `Git`
 
-### Tutor'INSA — Secure full-stack platform
+### [Tutor'INSA — Secure full-stack platform](https://github.com/Sparkyy6/Tutor-INSA)
 
 Built a tutoring platform featuring authentication, real-time messaging and calendar workflows. Designed relational data models and access-control rules, then integrated the React frontend with Supabase APIs.
 

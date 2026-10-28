@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/85554656?v=4" width="112" alt="Gabriel Scavone" />
+<img src="https://avatars.githubusercontent.com/u/85554656?v=4" width="112" alt="" />
 
-<h1>Gabriel Scavone</h1>
+
 
 <h3>Software Engineering · Cloud & DevSecOps · Cybersecurity</h3>
 
 <p>
-  Final-year Computer Science & Cybersecurity engineering student at <strong>INSA Centre Val de Loire</strong>.<br/>
+  Final-year Computer Science & Cybersecurity engineering student <br/>
   I build reliable software, automate infrastructure and approach every system with security in mind.
 </p>
 
@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/Based_in-France-0055A4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in France" />
 </p>
 
-<p><strong>Seeking a 4–6 month final-year internship · Available from February 2027</strong></p>
 
 </div>
 
@@ -28,7 +27,7 @@
 I enjoy working where **software, infrastructure and security** meet. My projects range from full-stack and backend applications to distributed systems and automated cloud deployments. I care about understandable code, reproducible environments, useful tests and documentation that helps the next engineer move faster.
 
 - 🎓 Engineering degree in Computer Science & Cybersecurity — expected in 2027
-- 💼 Software Development Intern at **Nidec Leroy-Somer** in 2026
+- 💼 Software Development Intern in 2026
 - 🌍 French native · English B2 (TOEIC) · Spanish B2
 - 🎯 Interested in software engineering, platform/cloud engineering and DevSecOps
 
